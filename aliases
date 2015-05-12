@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Core extensions
-alias ll='ls -lhFG'
+alias ll='ls -lhAFG'
 alias vi='vim'
 alias rm='/bin/rm -i'
 alias cp='/bin/cp -i'
